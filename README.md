@@ -1,2 +1,2 @@
 # hell
-lunix was the king of all operating systems 
+lunix kernals was the king of all operating systems
